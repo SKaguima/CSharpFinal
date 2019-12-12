@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\bin\Debug\CSC390 data structures.exe.config
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\bin\Debug\CSC390 data structures.exe
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\bin\Debug\CSC390 data structures.pdb
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\obj\Debug\CSC390 data structures.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\obj\Debug\CSC390 data structures.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\obj\Debug\CSC390 data structures.exe
+C:\Users\Razvan\source\repos\CSC390 data structures\CSC390 data structures\obj\Debug\CSC390 data structures.pdb
