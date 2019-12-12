@@ -1,0 +1,15 @@
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\bin\Debug\MSSA WPF.exe.config
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\bin\Debug\MSSA WPF.exe
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\bin\Debug\MSSA WPF.pdb
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\App.g.cs
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF_MarkupCompile.cache
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF_MarkupCompile.lref
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MainWindow.baml
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.g.resources
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA_WPF.Properties.Resources.resources
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.csproj.GenerateResource.cache
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.exe
+C:\Users\Razvan\source\repos\MSSA WPF\MSSA WPF\obj\Debug\MSSA WPF.pdb

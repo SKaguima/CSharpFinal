@@ -1,0 +1,23 @@
+﻿<Window x:Class="MSSA_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MSSA_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="buttonMSSA" Content="Click Me!!!!" HorizontalAlignment="Left" Margin="203,98,0,0" VerticalAlignment="Top" Width="231" RenderTransformOrigin="0.5,0.5" Height="152" Click="ButtonMSSA_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-27.973"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="labelMSSA" Content="Label" HorizontalAlignment="Left" Margin="579,125,0,0" VerticalAlignment="Top" Height="80" Width="173"/>
+
+    </Grid>
+</Window>
