@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\bin\Debug\CSC390 SLL2.exe.config
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\bin\Debug\CSC390 SLL2.exe
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\bin\Debug\CSC390 SLL2.pdb
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\obj\Debug\CSC390 SLL2.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\obj\Debug\CSC390 SLL2.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\obj\Debug\CSC390 SLL2.exe
+C:\Users\Razvan\source\repos\CSC390 SLL2\CSC390 SLL2\obj\Debug\CSC390 SLL2.pdb
