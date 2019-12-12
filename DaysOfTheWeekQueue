@@ -1,0 +1,38 @@
+using System;
+using System.Collections;
+using System.Windows.Forms;
+
+namespace DaysOfTheWeekQueue
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Queue days = new Queue();
+            days.Enqueue("Sunday");
+            days.Enqueue("Monday");
+            days.Enqueue("Tuesday");
+            days.Enqueue("Wednsday");
+            days.Enqueue("Thursday");
+            days.Enqueue("Friday");
+            days.Enqueue("Saturday");
+
+            MessageBox.Show (days.Dequeue().ToString ());
+            
+            if (days.Contains("Monday"))
+            {
+                MessageBox.Show("The queue contains Monday");
+            }
+            else
+            {
+                MessageBox.Show("Does not match any entries");
+            }
+        }
+    }
+}
+
