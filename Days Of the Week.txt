@@ -1,0 +1,38 @@
+using System;
+using System.Collections;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace DaysOfTheWeek
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Stack days = new Stack();
+            days.Push("SunDay");
+            days.Push("MonDay");
+            days.Push("TueDay");
+            days.Push("WedDay");
+            days.Push("ThuDay");
+            days.Push("FriDay");
+            days.Push("SaturDay");
+            if (days.Count ==7)
+            {
+                MessageBox.Show(days.Pop().ToString ());
+            }
+            else
+            {
+                MessageBox.Show("SaturDay does not exist");
+            }
+        }
+    }
+}
