@@ -1,0 +1,35 @@
+using System;
+using System.Collections;
+using System.Windows.Forms;
+using System.Collections.Specialized;
+
+namespace WindowsApplication1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            NameValueCollection markStatus = new NameValueCollection();
+            string[] values = null;
+
+            markStatus.Add("Very High", "80");
+            markStatus.Add("High", "60");
+            markStatus.Add("medium", "50");
+            markStatus.Add("Pass", "40");
+
+            foreach (string key in markStatus.Keys)
+            {
+                values = markStatus.GetValues(key);
+                foreach (string value in values)
+                {
+                    MessageBox.Show (key + " - " + value);
+                }
+            } 
+        }
+    }
+}
