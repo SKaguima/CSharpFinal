@@ -1,0 +1,31 @@
+using System;
+using System.Collections;
+using System.Windows.Forms;
+
+ 
+namespace Regions
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      ArrayList arrList = new ArrayList();
+      arrList.Add("North");
+      arrList.Add("East");
+      arrList.Add("West");
+      arrList.Add("South");
+      Console.WriteLine("ArrayList Elements...");
+      foreach (object item in arrList)
+      {
+          Console.WriteLine(item);
+      }
+      //remove range of elements from arraylist
+      arrList.RemoveRange(1,2);
+      Console.WriteLine("ArrayList Elements after RemoveRange()...");
+      foreach (object item in arrList)
+      {
+          Console.WriteLine(item);
+      }
+      Console.ReadKey();
+    }
+}
