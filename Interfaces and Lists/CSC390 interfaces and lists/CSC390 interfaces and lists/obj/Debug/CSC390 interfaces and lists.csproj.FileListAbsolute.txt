@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\bin\Debug\CSC390 interfaces and lists.exe.config
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\bin\Debug\CSC390 interfaces and lists.exe
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\bin\Debug\CSC390 interfaces and lists.pdb
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\obj\Debug\CSC390 interfaces and lists.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\obj\Debug\CSC390 interfaces and lists.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\obj\Debug\CSC390 interfaces and lists.exe
+C:\Users\Razvan\source\repos\CSC390 interfaces and lists\CSC390 interfaces and lists\obj\Debug\CSC390 interfaces and lists.pdb
