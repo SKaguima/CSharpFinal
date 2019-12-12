@@ -1,0 +1,7 @@
+C:\Users\davle\source\repos\MyMidTermProject\obj\Debug\MyMidTermProject.csproj.CoreCompileInputs.cache
+C:\Users\davle\source\repos\MyMidTermProject\bin\Debug\MyMidTermProject.exe.config
+C:\Users\davle\source\repos\MyMidTermProject\bin\Debug\MyMidTermProject.exe
+C:\Users\davle\source\repos\MyMidTermProject\bin\Debug\MyMidTermProject.pdb
+C:\Users\davle\source\repos\MyMidTermProject\obj\Debug\MyMidTermProject.exe
+C:\Users\davle\source\repos\MyMidTermProject\obj\Debug\MyMidTermProject.pdb
+C:\Users\davle\source\repos\MyMidTermProject\obj\Debug\MyMidTermProject.csprojAssemblyReference.cache
