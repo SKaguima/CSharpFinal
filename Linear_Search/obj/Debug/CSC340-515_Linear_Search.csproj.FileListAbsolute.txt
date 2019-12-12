@@ -1,0 +1,7 @@
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\bin\Debug\CSC340-515_Linear_Search.exe.config
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\bin\Debug\CSC340-515_Linear_Search.exe
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\bin\Debug\CSC340-515_Linear_Search.pdb
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\obj\Debug\CSC340-515_Linear_Search.csprojAssemblyReference.cache
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\obj\Debug\CSC340-515_Linear_Search.csproj.CoreCompileInputs.cache
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\obj\Debug\CSC340-515_Linear_Search.exe
+C:\Users\davle\Desktop\CSC340-515_Linear_Search\obj\Debug\CSC340-515_Linear_Search.pdb
